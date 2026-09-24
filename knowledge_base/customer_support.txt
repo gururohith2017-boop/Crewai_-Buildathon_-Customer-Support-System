@@ -1,0 +1,39 @@
+CUSTOMER SUPPORT KNOWLEDGE BASE
+
+CASA - Current Account Savings Account
+
+CASA stands for Current Account Savings Account. It refers to the deposits maintained by customers in current accounts and savings accounts with a bank.
+
+A savings account is generally used by customers to keep money safely while earning interest according to the bank's applicable interest rate.
+
+A current account is generally designed for frequent transactions and business customers. Current accounts typically provide high transaction flexibility and may not provide interest in the same way as savings accounts.
+
+KYC - Know Your Customer
+
+KYC means Know Your Customer. Banks use KYC procedures to verify the identity and address of their customers.
+
+Common KYC documents can include officially accepted identity documents and address proof. The exact documents required depend on applicable regulations and the bank's policies.
+
+MFA - Multi-Factor Authentication
+
+MFA means Multi-Factor Authentication. It is a security mechanism that requires a user to provide more than one type of authentication factor.
+
+Examples include a password combined with a one-time password (OTP), authentication application approval, or another approved authentication factor.
+
+PASSWORD RESET
+
+If a customer forgets their banking application password, they can normally use the bank's approved password-reset process.
+
+The customer may be required to verify their identity using registered contact information, OTP, MFA, or other security controls before creating a new password.
+
+TRANSACTION ISSUE
+
+For a transaction-related issue, customer support should first collect relevant transaction information and verify the customer's identity.
+
+The support team should not request or expose sensitive authentication information such as passwords, PINs, or OTPs.
+
+CUSTOMER DATA SECURITY
+
+Customer passwords, PINs, OTPs, authentication tokens, and other confidential security credentials must not be disclosed to support personnel or other unauthorized parties.
+
+Customer support responses should protect confidential information and follow the organization's security and privacy policies.
